@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.0</version>
+    <version>1.4.0.0</version>
     <url>https://github.com/finxcapital/SARA-Releases/releases/latest/download/SARA_v1.4.0.exe</url>
     <changelog>https://github.com/finxcapital/SARA-Releases/releases</changelog>
     <mandatory>false</mandatory>
